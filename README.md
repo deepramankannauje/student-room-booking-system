@@ -47,7 +47,3 @@ cd client
 npm install
 npm run dev
 
-
-License
-
-MIT
